@@ -1,0 +1,1 @@
+No of original elements of set A found in lookup: 507

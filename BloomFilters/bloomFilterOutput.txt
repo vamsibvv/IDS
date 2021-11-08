@@ -1,0 +1,2 @@
+Number of successful lookups for Set A is: 1000
+Number of successful lookups for Set B is: 17
